@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Kullanıcı Giriş API'si Geliştirme",
+    "description": "JWT kullanarak kullanıcı giriş endpointinin oluşturulması.",
+    "assignee": "Sudenaz",
+    "status": "in-progress",
+    "priority": "high",
+    "createdAt": "2026-11-01"
+  },
+  {
+    "id": 2,
+    "title": "Dashboard Tasarımının Yapılması",
+    "description": "React ve Bootstrap kullanarak dashboard ekranının hazırlanması.",
+    "assignee": "Ahmet",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-11-02"
+  },
+  {
+    "id": 3,
+    "title": "Veritabanı Bağlantısının Kurulması",
+    "description": "Backend uygulamasının MongoDB ile bağlantısının hazırlanması.",
+    "assignee": "Mehmet",
+    "status": "completed",
+    "priority": "high",
+    "createdAt": "2026-10-28"
+  },
+  {
+    "id": 4,
+    "title": "API Testlerinin Yapılması",
+    "description": "Postman kullanarak CRUD endpointlerinin test edilmesi.",
+    "assignee": "Sudenaz",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-11-02"
+  },
+  {
+    "id": 6,
+    "description": "Aciklama",
+    "assignee": "Sudenaz",
+    "status": "pending",
+    "priority": "high",
+    "title": "Postman Test",
+    "createdAt": "2026-11-02"
+  }
+]
