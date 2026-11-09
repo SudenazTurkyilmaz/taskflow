@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Kullanıcı Giriş API'si Geliştirme",
+    "description": "JWT kullanarak kullanıcı giriş endpointinin oluşturulması.",
+    "assignee": "Sudenaz",
+    "status": "in-progress",
+    "priority": "high",
+    "createdAt": "2026-11-01"
+  },
+  {
+    "id": 2,
+    "title": "Dashboard Tasarımının Yapılması",
+    "description": "React ve Bootstrap kullanarak dashboard ekranının hazırlanması.",
+    "assignee": "Ahmet",
+    "status": "in-progress",
+    "priority": "medium",
+    "createdAt": "2026-11-02"
+  },
+  {
+    "id": 3,
+    "title": "Veritabanı Bağlantısının Kurulması",
+    "description": "Backend uygulamasının MongoDB ile bağlantısının hazırlanması.",
+    "assignee": "Mehmet",
+    "status": "completed",
+    "priority": "high",
+    "createdAt": "2026-10-28"
+  },
+  {
+    "id": 4,
+    "title": "API Testlerinin Yapılması",
+    "description": "Postman kullanarak CRUD endpointlerinin test edilmesi.",
+    "assignee": "Sudenaz",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-11-02"
+  },
+  {
+    "id": 7,
+    "description": "Aciklama",
+    "assignee": "Sudenaz",
+    "status": "pending",
+    "priority": "high",
+    "title": "Postman Test",
+    "createdAt": "2026-11-08"
+  },
+  {
+    "id": 8,
+    "description": "Aciklama",
+    "assignee": "nazz",
+    "status": "pending",
+    "priority": "medium",
+    "title": "test",
+    "createdAt": "2026-11-08"
+  },
+  {
+    "id": 9,
+    "description": "react bootstrap",
+    "assignee": "raif",
+    "status": "in-progress",
+    "priority": "medium",
+    "title": "front test",
+    "createdAt": "2026-11-08"
+  },
+  {
+    "id": 10,
+    "description": "hbnjmkldsş",
+    "assignee": "djkcndld",
+    "status": "pending",
+    "priority": "medium",
+    "title": "kayıt",
+    "createdAt": "2026-11-08"
+  },
+  {
+    "id": 11,
+    "description": "github proje",
+    "assignee": "emine",
+    "status": "completed",
+    "priority": "high",
+    "title": "projeyi githuba yükleme",
+    "createdAt": "2026-11-09"
+  }
+]
