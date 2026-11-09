@@ -5,7 +5,6 @@ node_modules/
 dist/
 dist-ssr/
 coverage/
-frontend/screenshots/
 
 # Local environment variables (keep the example template)
 .env
