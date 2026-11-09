@@ -1,8 +1,13 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 const logger = require('./middleware/logger');
+
+app.use(cors({
+  origin: process.env.FRONTEND_URL || 'http://localhost:5173'
+}));
 
 app.use(express.json());
 app.use(logger);

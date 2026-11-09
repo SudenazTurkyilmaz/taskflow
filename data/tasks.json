@@ -13,7 +13,7 @@
     "title": "Dashboard Tasarımının Yapılması",
     "description": "React ve Bootstrap kullanarak dashboard ekranının hazırlanması.",
     "assignee": "Ahmet",
-    "status": "pending",
+    "status": "in-progress",
     "priority": "medium",
     "createdAt": "2026-11-02"
   },
@@ -51,6 +51,24 @@
     "status": "pending",
     "priority": "medium",
     "title": "test",
+    "createdAt": "2026-11-08"
+  },
+  {
+    "id": 9,
+    "description": "react bootstrap",
+    "assignee": "raif",
+    "status": "in-progress",
+    "priority": "medium",
+    "title": "front test",
+    "createdAt": "2026-11-08"
+  },
+  {
+    "id": 10,
+    "description": "hbnjmkldsş",
+    "assignee": "djkcndld",
+    "status": "pending",
+    "priority": "medium",
+    "title": "kayıt",
     "createdAt": "2026-11-08"
   }
 ]

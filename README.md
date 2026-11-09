@@ -38,3 +38,11 @@ npm run dev
 ```
 
 Sunucu `http://localhost:3000` adresinde çalışır.
+
+## Frontend
+
+Bu depoda görevleri yönetmek için React tabanlı bir frontend de bulunur. Frontend'i
+incelemek veya backend ile birlikte çalıştırmak isterseniz kurulum ve başlatma
+adımları için [frontend README'sine](../frontend/README.md) göz atabilirsiniz.
+Backend tek başına API olarak kullanılabilir; arayüzü kullanmak için frontend'i de
+ayrı bir terminalde başlatmanız gerekir.
