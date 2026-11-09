@@ -45,5 +45,6 @@ Frontend `http://localhost:5173`, backend ise `http://localhost:3000` adresinde
 
 ![TaskFlow frontend ekran görüntüsü 1](screenshots/front1.png)
 
-![TaskFlow frontend ekran görüntüsü 2](screenshots/front2.png)
+---
 
+![TaskFlow frontend ekran görüntüsü 2](screenshots/front2.png)
