@@ -4,6 +4,11 @@ TaskFlow, görevleri listelemek ve yönetmek için React, Vite ve Bootstrap 5 il
 hazırlanmış bir web arayüzüdür. Görev verileri projedeki Express backend API'sinden
 alınır.
 
+## Canlı Demo
+
+- Frontend: [TaskFlow'u aç](https://astounding-mousse-d89567.netlify.app/)
+- Backend API: [Render API adresi](https://taskflow-backend-mofw.onrender.com)
+
 ## Özellikler
 
 - Görevleri listeleme, ekleme, düzenleme ve silme

@@ -4,6 +4,11 @@ TaskFlow, ekip içerisindeki görevleri ve çalışanların sorumluluklarını t
 
 Görevler durum, öncelik veya atanan kişiye göre filtrelenebilir. Search parametresiyle görev başlığı ve açıklamasında büyük/küçük harf duyarlılığı olmadan arama yapılabilir. Sayfalama sayesinde görevler belirli sayıda listelenebilir. Ayrıca raporlama özelliği, toplam görev sayısını ve görevlerin durum, öncelik ve atanan kişiye göre dağılımını gösterir.
 
+## Canlı Demo
+
+- Frontend: [TaskFlow'u aç](https://astounding-mousse-d89567.netlify.app/)
+- Backend API: [Render API adresi](https://taskflow-backend-mofw.onrender.com)
+
 Örnekler:
 
 - Filtreleme: `GET /tasks?status=pending&priority=high`
